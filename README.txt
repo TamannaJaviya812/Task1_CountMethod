@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  Task 1: Build a python program which returns the no. of paragraph , count of         
   words, count of sentences and doc size of .txt document.
 
@@ -37,3 +38,6 @@ Document Analysis:
 ➤ File size: 3.44 KB
 
 
+=======
+"hello Github"
+>>>>>>> 0ac553e3ca911385527ddce6bbb87b4dd5f5a0da
