@@ -1,0 +1,7 @@
+ #Requirements :
+
+1. Python 3.x
+2. Built-in libraries: os, re
+3. Text file (.txt) to analyze
+4. Flask library
+
